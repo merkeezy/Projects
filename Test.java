@@ -1,3 +1,5 @@
+//this is connected to FitnessTracker.java
+
 package com;
 
 public class Test
